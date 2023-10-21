@@ -27,6 +27,7 @@ public class EmployeeController {
     @PutMapping
     public void updateEmployee() {
         System.out.println("aaa");
+        System.out.println("bbb");
         System.out.println("ccc");
     }
 }
