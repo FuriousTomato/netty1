@@ -30,6 +30,7 @@ public class EmployeeController {
         System.out.println("bbb");
         System.out.println("ccc");
         System.out.println("push test");
+        System.out.println("pull test");
         System.out.println("merge test");
     }
 }
